@@ -16,12 +16,12 @@ Graduated in Internet Systems and enthusiast in Web/Mobile and Games development
   <img src="https://img.shields.io/static/v1?logo=styled-components&message=styled%20components&color=DB7093&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/static/v1?logo=java&message=java&color=007396&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
-  <img src="https://img.shields.io/static/v1?logo=android&message=android&color=3DDC84&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
-</div>
-<div>
   <img src="https://img.shields.io/static/v1?logo=nodedotjs&message=nodejs&color=339933&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
   <img src="https://img.shields.io/static/v1?logo=express&message=express&color=000000&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/static/v1?logo=java&message=java&color=007396&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
+  <img src="https://img.shields.io/static/v1?logo=android&message=android&color=3DDC84&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/static/v1?logo=postgresql&message=postgresql&color=4169E1&style=for-the-badge&labelColor=5c5c5c&label=%20&logoColor=white">
